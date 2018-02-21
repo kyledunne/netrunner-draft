@@ -1,0 +1,167 @@
+3 Account Siphon
+1 Apocalypse
+3 Career Fair
+1 Cyber Threat
+3 Day Job
+3 Diesel
+3 Dirty Laundry
+2 Drive By
+3 Easy Mark
+3 Emergency Shutdown
+3 Express Delivery
+3 Forged Activation Orders
+1 Forked
+1 Game Day
+1 Hostage
+3 I've Had Worse
+3 Indexing
+3 Inject
+3 Inside Job
+1 Knifed
+3 Legwork
+2 Levy AR Lab Access
+3 Lucky Find
+3 Modded
+1 Planned Assault
+1 Power to the People
+2 Quality Time
+2 Queen's Gambit
+2 Retrieval Run
+2 Scavenge
+1 Social Engineering
+3 Special Order
+1 Spooned
+3 Stimhack
+3 Sure Gamble
+2 Test Run
+3 The Maker's Eye
+1 Three Steps Ahead
+3 Tinkering
+1 Vamp
+1 Windfall
+3 Akamatsu Mem Chip
+3 Astrolabe
+1 Box-E
+3 Clone Chip
+3 CyberSolutions Mem Chip
+3 Desperado
+3 Dyson Fractal Generator
+3 Dyson Mem Chip
+3 Grimoire
+2 HQ Interface
+3 Lockpick
+1 Logos
+1 MemStrips
+3 Omni-drive
+3 Q-Coherence Chip
+3 R&D Interface
+3 Silencer
+3 Spinal Modem
+3 The Personal Touch
+1 Turntable
+3 Vigil
+3 Aesop's Pawnshop
+1 Always Be Running
+1 Armitage Codebusting
+3 Bank Job
+3 Daily Casts
+1 DDoS
+3 Earthrise Hotel
+3 Ghost Runner
+1 Hades Shard
+1 Human First
+1 Ice Analyzer
+2 Ice Carver
+1 John Masanori
+3 Kati Jones
+3 Liberated Account
+1 London Library
+3 Mr. Li
+1 Muertos Gang Member
+1 Neutralize All Threats
+3 Personal Workshop
+3 Professional Contacts
+1 Rolodex
+1 Sacrificial Construct
+1 Safety First
+1 Same Old Thing
+1 Scrubber
+3 Security Testing
+1 Street Peddler
+3 Symmetrical Visage
+1 Technical Writer
+1 The Supplier
+3 Tri-maf Contact
+1 Utopia Shard
+3 Wyldside
+3 Zona Sul Shipping
+2 Alias
+3 Atman
+3 Battering Ram
+3 BlacKat
+3 Breach
+3 Cerberus \"Cuj.0\" H3
+3 Cerberus \"Lady\" H1
+3 Cerberus \"Rex\" H2
+2 Chameleon
+3 Corroder
+3 Crypsis
+3 Cyber-Cypher
+3 Dagger
+1 Darwin
+1 Deus X
+2 Eater
+1 Endless Hunger
+3 Faerie
+1 Faust
+2 Femme Fatale
+2 Garrote
+2 Gingerbread
+3 Gordian Blade
+3 GS Sherman M3
+3 GS Shrike M2
+2 GS Striker M1
+1 Inti
+3 Knight
+3 Mimic
+1 Morning Star
+3 Ninja
+3 Overmind
+3 Passport
+3 Refractor
+1 Sharpshooter
+3 Snowball
+3 Study Guide
+1 Torch
+3 Yog.0
+3 ZU.13 Key Master
+1 Bishop
+3 Cache
+3 Cloak
+1 Crescentus
+3 D4v1d
+3 Datasucker
+2 DaVinci
+2 Djinn
+3 Gorman Drip v1
+2 Grappling Hook
+1 Hemorrhage
+3 Imp
+2 Keyhole
+3 Leprechaun
+3 Magnum Opus
+3 Medium
+3 Multithreader
+1 Nerve Agent
+2 Paintbrush
+3 Parasite
+1 Progenitor
+2 Rook
+1 Sahasrara
+1 Savoir-faire
+3 Scheherazade
+3 Self-modifying Code
+3 Sneakdoor Beta
+1 Snitch
+1 Surfer
+2 Trope
